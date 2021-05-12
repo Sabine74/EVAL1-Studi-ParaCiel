@@ -42,3 +42,9 @@ button[type=submit] {
   margin-top: 15px;
 }
 
+
+@media print {
+  form {
+    max-width: 60%;
+  }
+}

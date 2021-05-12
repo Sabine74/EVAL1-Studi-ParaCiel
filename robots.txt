@@ -1,6 +1,7 @@
-{\rtf1}
-User-agent:*
-Allow:/
+
+User-agent:Googlebot;
+Disallow: /documents-ecrits/
+Disallow: /bootstrap-5.0.0-beta3-dist/
 
 Sitemap : https://hopeful-visvesvaraya-863b68.netlify.app
 
