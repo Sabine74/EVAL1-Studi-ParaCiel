@@ -1,0 +1,15 @@
+{\rtf1}
+User-agent:*
+Allow:/
+
+Sitemap : https://hopeful-visvesvaraya-863b68.netlify.app
+
+<?xml version="1.0" encoding ="UTF-8"?>
+   <urlset xmlns = https://hopeful-visvesvaraya-863b68.netlify.app/sitemap/0.9">
+      <url>
+         <loc>https://hopeful-visvesvaraya-863b68.netlify.app/ </loc>
+           <lastmod> 12/05/2021 </lastmod>
+             <changefreq> mensuel </changefreq>
+               <priority> 0.8 </priority>
+      </url>
+   </urlset>
